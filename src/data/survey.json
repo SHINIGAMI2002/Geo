@@ -1,0 +1,1049 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.279223717, 13.223256891, 139.261]
+      },
+      "properties": {
+        "NAME": "1",
+        "LAYER": "LAYER1",
+        "ELEVATION": 139.261,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.279411589, 13.222529624, 140.4]
+      },
+      "properties": {
+        "NAME": "2",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.4,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.278157601, 13.222742453, 139.837]
+      },
+      "properties": {
+        "NAME": "3",
+        "LAYER": "LAYER1",
+        "ELEVATION": 139.837,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.278607, 13.220604193, 141.992]
+      },
+      "properties": {
+        "NAME": "4",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.992,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.278175316, 13.221660159, 140.784]
+      },
+      "properties": {
+        "NAME": "5",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.784,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.275504082, 13.221925056, 136.91]
+      },
+      "properties": {
+        "NAME": "6",
+        "LAYER": "LAYER1",
+        "ELEVATION": 136.91,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.276443631, 13.221522087, 137.414]
+      },
+      "properties": {
+        "NAME": "7",
+        "LAYER": "LAYER1",
+        "ELEVATION": 137.414,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.026,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.276129046, 13.222282689, 136.3]
+      },
+      "properties": {
+        "NAME": "8",
+        "LAYER": "LAYER1",
+        "ELEVATION": 136.3,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.021,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.276404612, 13.222645945, 136.395]
+      },
+      "properties": {
+        "NAME": "9",
+        "LAYER": "LAYER1",
+        "ELEVATION": 136.395,
+        "FIX_TYPE": "N/A",
+        "ACC_H": 0.009,
+        "ACC_V": 0.021,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.274148037, 13.220147757, 139.576]
+      },
+      "properties": {
+        "NAME": "10",
+        "LAYER": "LAYER1",
+        "ELEVATION": 139.576,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.2677284, 13.221514118, 136.426]
+      },
+      "properties": {
+        "NAME": "11",
+        "LAYER": "LAYER1",
+        "ELEVATION": 136.426,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.008,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.268998614, 13.221069691, 137.689]
+      },
+      "properties": {
+        "NAME": "12",
+        "LAYER": "LAYER1",
+        "ELEVATION": 137.689,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.269987446, 13.220663349, 140.096]
+      },
+      "properties": {
+        "NAME": "13",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.096,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.025,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.270836526, 13.2204281, 141.201]
+      },
+      "properties": {
+        "NAME": "14",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.201,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.272081784, 13.220102464, 138.894]
+      },
+      "properties": {
+        "NAME": "15",
+        "LAYER": "LAYER1",
+        "ELEVATION": 138.894,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.021,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.272864138, 13.219808657, 138.022]
+      },
+      "properties": {
+        "NAME": "16",
+        "LAYER": "LAYER1",
+        "ELEVATION": 138.022,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "Survey completed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.272481542, 13.218607006, 139.407]
+      },
+      "properties": {
+        "NAME": "17",
+        "LAYER": "LAYER1",
+        "ELEVATION": 139.407,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.025,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.270930908, 13.219108203, 140.048]
+      },
+      "properties": {
+        "NAME": "18",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.048,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.269382261, 13.219544374, 141.185]
+      },
+      "properties": {
+        "NAME": "19",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.185,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.268691492, 13.219637897, 140.788]
+      },
+      "properties": {
+        "NAME": "20",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.788,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.025,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.267520279, 13.219526599, 141.068]
+      },
+      "properties": {
+        "NAME": "21",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.068,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "Surveyed on 12th"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.268993823, 13.219142171, 141.529]
+      },
+      "properties": {
+        "NAME": "22",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.529,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.269837158, 13.218933227, 141.074]
+      },
+      "properties": {
+        "NAME": "23",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.074,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.266710952, 13.219073787, 140.832]
+      },
+      "properties": {
+        "NAME": "24",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.832,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.028,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.267967921, 13.21889925, 141.81]
+      },
+      "properties": {
+        "NAME": "25",
+        "LAYER": "LAYER1",
+        "ELEVATION": 141.81,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.267101059, 13.216635343, 138.559]
+      },
+      "properties": {
+        "NAME": "26",
+        "LAYER": "LAYER1",
+        "ELEVATION": 138.559,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.267040209, 13.215536306, 137.485]
+      },
+      "properties": {
+        "NAME": "27",
+        "LAYER": "LAYER1",
+        "ELEVATION": 137.485,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "surveyed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.26706489, 13.215311081, 137.674]
+      },
+      "properties": {
+        "NAME": "28",
+        "LAYER": "LAYER1",
+        "ELEVATION": 137.674,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.269751797, 13.21732116, 140.986]
+      },
+      "properties": {
+        "NAME": "29",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.986,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.271034685, 13.217815438, 140.796]
+      },
+      "properties": {
+        "NAME": "30",
+        "LAYER": "LAYER1",
+        "ELEVATION": 140.796,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.008,
+        "ACC_V": 0.021,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.309762507, 13.226768247, 140.041]
+      },
+      "properties": {
+        "NAME": "2",
+        "LAYER": "LAYER2",
+        "ELEVATION": 140.041,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.309968507, 13.2272592, 139.259]
+      },
+      "properties": {
+        "NAME": "3",
+        "LAYER": "LAYER2",
+        "ELEVATION": 139.259,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "surveyed by team B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.310145213, 13.227787841, 138.572]
+      },
+      "properties": {
+        "NAME": "4",
+        "LAYER": "LAYER2",
+        "ELEVATION": 138.572,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.018,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.310241156, 13.228502923, 137.585]
+      },
+      "properties": {
+        "NAME": "5",
+        "LAYER": "LAYER2",
+        "ELEVATION": 137.585,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.310332556, 13.229099234, 136.796]
+      },
+      "properties": {
+        "NAME": "6",
+        "LAYER": "LAYER2",
+        "ELEVATION": 136.796,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.310430437, 13.229753391, 136.153]
+      },
+      "properties": {
+        "NAME": "7",
+        "LAYER": "LAYER2",
+        "ELEVATION": 136.153,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "Completed survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311953554, 13.229561508, 134.974]
+      },
+      "properties": {
+        "NAME": "8",
+        "LAYER": "LAYER2",
+        "ELEVATION": 134.974,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.019,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312377103, 13.2296189, 135.002]
+      },
+      "properties": {
+        "NAME": "9",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.002,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312844496, 13.229358743, 135.015]
+      },
+      "properties": {
+        "NAME": "10",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.015,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312736932, 13.228820078, 135.302]
+      },
+      "properties": {
+        "NAME": "11",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.302,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.019,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312617204, 13.228338153, 135.559]
+      },
+      "properties": {
+        "NAME": "12",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.559,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.019,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "Surveyed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.31251262, 13.227877139, 135.236]
+      },
+      "properties": {
+        "NAME": "13",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.236,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.019,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312404239, 13.227378959, 134.82]
+      },
+      "properties": {
+        "NAME": "14",
+        "LAYER": "LAYER2",
+        "ELEVATION": 134.82,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312315457, 13.227021909, 134.504]
+      },
+      "properties": {
+        "NAME": "15",
+        "LAYER": "LAYER2",
+        "ELEVATION": 134.504,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.312233733, 13.226660754, 134.141]
+      },
+      "properties": {
+        "NAME": "16",
+        "LAYER": "LAYER2",
+        "ELEVATION": 134.141,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.021,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311949562, 13.22627196, 135.125]
+      },
+      "properties": {
+        "NAME": "17",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.125,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.019,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311879522, 13.225883539, 135.71]
+      },
+      "properties": {
+        "NAME": "18",
+        "LAYER": "LAYER2",
+        "ELEVATION": 135.71,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311819574, 13.225569955, 136.118]
+      },
+      "properties": {
+        "NAME": "19",
+        "LAYER": "LAYER2",
+        "ELEVATION": 136.118,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.022,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311711898, 13.224107905, 139.95]
+      },
+      "properties": {
+        "NAME": "20",
+        "LAYER": "LAYER2",
+        "ELEVATION": 139.95,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311644105, 13.223285535, 140.696]
+      },
+      "properties": {
+        "NAME": "21",
+        "LAYER": "LAYER2",
+        "ELEVATION": 140.696,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311537807, 13.222224206, 141.656]
+      },
+      "properties": {
+        "NAME": "22",
+        "LAYER": "LAYER2",
+        "ELEVATION": 141.656,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.027,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311426287, 13.221010561, 142.116]
+      },
+      "properties": {
+        "NAME": "23",
+        "LAYER": "LAYER2",
+        "ELEVATION": 142.116,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": "Ready for check"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311336442, 13.220166968, 144.969]
+      },
+      "properties": {
+        "NAME": "24",
+        "LAYER": "LAYER2",
+        "ELEVATION": 144.969,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.31070681, 13.219805764, 146.641]
+      },
+      "properties": {
+        "NAME": "25",
+        "LAYER": "LAYER2",
+        "ELEVATION": 146.641,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.01,
+        "ACC_V": 0.025,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.311169766, 13.215829602, 154.646]
+      },
+      "properties": {
+        "NAME": "26",
+        "LAYER": "LAYER2",
+        "ELEVATION": 154.646,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.008,
+        "ACC_V": 0.02,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.309553119, 13.215721711, 154.694]
+      },
+      "properties": {
+        "NAME": "27",
+        "LAYER": "LAYER2",
+        "ELEVATION": 154.694,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.023,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.308072917, 13.215761403, 158.489]
+      },
+      "properties": {
+        "NAME": "28",
+        "LAYER": "LAYER2",
+        "ELEVATION": 158.489,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.021,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [102.306995784, 13.215735797, 160.773]
+      },
+      "properties": {
+        "NAME": "29",
+        "LAYER": "LAYER2",
+        "ELEVATION": 160.773,
+        "FIX_TYPE": "4",
+        "ACC_H": 0.009,
+        "ACC_V": 0.024,
+        "PDOP": null,
+        "FILE_NAME": "13-06-69_export.xlsx",
+        "REMARKS": ""
+      }
+    }
+  ]
+}

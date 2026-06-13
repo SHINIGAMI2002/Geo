@@ -1,0 +1,10 @@
+{
+  "name": "GeoMerge and Survey",
+  "description": "ระบบจัดการและสำรวจข้อมูลพิกัดงานสำรวจเชิงพื้นที่ด้วยอินเตอร์แอคทีฟแผนที่ React/Leaflet พร้อมระบุ Symbology และจัดทำรายงานคราฟพิกัด",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
